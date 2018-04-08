@@ -5,6 +5,8 @@ AngularJS et Node.js par la pratique!
 
 <br>
 
+    $ npm i
+
     $ node server.js
 
 then http://localhost:3000/#/index
