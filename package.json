@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-et-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mails-imap.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "browserbox": "^0.9.1",
+    "connect": "^3.2.0",
+    "emailjs": "^1.0.4",
+    "es6-promise": "^3.0.2",
+    "express": "^4.16.3",
+    "mailparser": "^0.5.3",
+    "mime": "^1.6.0",
+    "morgan": "^1.9.0",
+    "properties-reader": "^0.0.13",
+    "serve-favicon": "^2.5.0",
+    "serve-static": "^1.13.2",
+    "socket.io": "^1.4.5",
+    "useful-date": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
